@@ -164,11 +164,17 @@
 
 ###############################################################
 
-def funcition():
-    yield 1
-    yield 2
-    yield 3
+#def funcition():
+    #yield 1
 
-contador = funcition()
+##contador = funcition()
 
-print(next(contador))
+#print(next(contador))
+
+###############################################################
+
+#except ValueError:
+#except ZeroDivisionError:
+
+###############################################################
+
