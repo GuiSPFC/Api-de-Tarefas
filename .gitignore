@@ -1,0 +1,5 @@
+.env
+AULAS/
+meu-projeto-fastapi/
+*.yaml
+*.db
